@@ -1,0 +1,76 @@
+body{
+    font-family: Kalnia;
+
+}
+header{
+    background-color: #1b1833;
+}
+
+.cabecalho{
+    display: flex;
+    padding: 0px 20px;
+    background-color: #1b1833;
+    background-image: url("https://encurtador.com.br/csBIY");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;  
+    align-items: center;
+    justify-content: center;
+   
+    
+}
+.site{
+        display: flex;
+        text-align: center;
+        font-size: 50px;
+        text-decoration: none;
+        background-color: rgba(255, 0, 0, 0.671);
+        gap: 100px;
+        padding: 15px;
+}
+.site{
+    ovever
+}
+
+.menu a{
+    color: rgb(17, 4, 4);
+    text-decoration: none;
+    font-family: 'IM Fell English SC', serif;
+
+
+}
+.menu{
+    height: 100vh;
+    background-image: url(https://encurtador.com.br/hkrU8) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.informacoes{
+    background-color: rgb(112, 32, 32);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+    padding: 20px;
+    font-family: "Pacifico";
+    color: #1b1833;
+
+}
+.informacoes h1{
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+}
+.a_site{
+    color:whitesmoke
+}
